@@ -7,9 +7,18 @@
     "test": "jest"
   },
   "dependencies": {
+    "babel-preset-react-native": "^1.9.1",
+    "babel-relay-plugin": "^0.10.0",
+    "parse": "^1.9.2",
     "parse-react": "^0.5.2",
-    "react": "16.0.0-alpha.6",
-    "react-native": "0.43.3"
+    "react": "^16.0.0-alpha.6",
+    "react-native": "0.43.3",
+    "react-redux": "^5.0.4",
+    "react-relay": "^0.10.0",
+    "redux": "^3.6.0",
+    "redux-logger": "^3.0.1",
+    "redux-persist": "^4.8.0",
+    "redux-thunk": "^2.2.0"
   },
   "devDependencies": {
     "babel-jest": "19.0.0",
